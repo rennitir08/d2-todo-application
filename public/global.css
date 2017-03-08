@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/weather.png");
+    background-size: cover;
+}
+
+.column {
+    
+}
